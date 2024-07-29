@@ -1,6 +1,9 @@
+:root {
+  padding: 0px;
+}
 .products {
   width: 100%;
-  display: flex;
+  display: flexbox;
   justify-content: center;
   align-items: center;
 }
